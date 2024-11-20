@@ -15,6 +15,6 @@ variable "storage_account_name" {
 
 variable "environment" {
   type = string
-  default = "set the environment type"
+ description = "set the environment type"
 }
 
